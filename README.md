@@ -23,6 +23,17 @@ I enjoy exploring emerging technologies, experimenting with AI models, and conti
 
 ### 🛠️ Technical Skills
 
+### 💻 Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 **Programming Languages**
 
 - Python
@@ -67,7 +78,7 @@ I enjoy exploring emerging technologies, experimenting with AI models, and conti
 - Integrated a Vision-Language Model to analyze ambiguous documents and improve classification accuracy.
 - Generated automated completeness reports to support investment application processing.
 
-#### 2. AI Productivity Assistant&#x20;
+#### 2. AI Productivity Assistant
 
 **Technologies:** Python, LangGraph, RAG, ChromaDB, Groq, FastAPI, React
 
@@ -101,9 +112,9 @@ I enjoy exploring emerging technologies, experimenting with AI models, and conti
 
 ### 📫 Connect With Me
 
-- GitHub: [@souhailabelaidi-droid](https://github.com/souhailabelaidi-droid)
-- LinkedIn: www.linkedin.com/in/souhaila-belaidi-85151734a
-- Email: souhaila.belaidi04@gmail.com
+- GitHub: [@souhailabelaidi](https://github.com/souhailabelaidi)
+- LinkedIn: [Souhaila Belaidi](https://www.linkedin.com/in/souhaila-belaidi-85151734a/)
+- Email: [souhaila.belaidi04@gmail.com](mailto:souhaila.belaidi04@gmail.com)
 
 ---
 
