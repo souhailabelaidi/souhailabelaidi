@@ -69,6 +69,15 @@ I enjoy exploring emerging technologies, experimenting with AI models, and conti
 - Jupyter Notebook
 
 ---
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=souhailabelaidi&show_icons=true&theme=tokyonight&hide_border=true"
+    width="450"
+    alt="GitHub Statistics"
+  />
+</p>
 
 ### 💡 Featured Projects
 
