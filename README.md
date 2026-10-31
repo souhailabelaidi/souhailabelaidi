@@ -68,47 +68,89 @@ I enjoy exploring emerging technologies, experimenting with AI models, and conti
 
 ### 💡 Featured Projects
 
-#### 1. Intelligent Investment Document Verification System
 
-**Technologies:** Python, OCR, Computer Vision, Vision-Language Models, Regex
+### 1. CRI – Intelligent Investment Document Verification System
+**Professional Internship | Regional Investment Center (CRI) | July 2026 – September 2026**
 
-- Designed an automated document completeness verification engine covering **30 CRUI procedures and 40 document types**.
-- Developed a Python pipeline for PDF text extraction, OCR processing, and handwritten document recognition fallback.
-- Implemented automatic document classification using keywords, synonyms, and regular expressions.
-- Integrated a Vision-Language Model to analyze ambiguous documents and improve classification accuracy.
-- Generated automated completeness reports to support investment application processing.
+An intelligent system designed to automate the verification of administrative investment application files according to CRUI procedures.
 
-#### 2. AI Productivity Assistant
+**Key Contributions:**
+- Designed an automated completeness verification engine covering **30 CRUI procedures and 40 document types**.
+- Developed a Python pipeline for PDF text extraction and OCR, including fallback mechanisms for handwritten documents.
+- Implemented document classification using keywords, synonyms, and regular expressions.
+- Integrated a Vision-Language Model to help analyze ambiguous documents.
+- Generated automated reports highlighting missing or detected documents.
 
-**Technologies:** Python, LangGraph, RAG, ChromaDB, Groq, FastAPI, React
+**Technologies:** Python · OCR · Computer Vision · Vision-Language Models · Regular Expressions
 
-- Developed an AI-powered productivity assistant connected to Gmail, Google Drive, Calendar, and Tasks.
-- Designed and implemented the RAG pipeline for semantic search and document retrieval.
-- Developed LangGraph workflows to orchestrate intelligent agents and automate Google Workspace tasks.
-- Integrated Groq-powered LLM inference to generate contextual responses.
-- Optimized the processing pipeline to achieve response times under 5 seconds in project tests.
-
-#### 3. Hypertension Detection – Predictive Machine Learning Model
-
-**Technologies:** Python, Scikit-learn, Pandas, NumPy
-
-- Developed a multivariate data analysis and machine learning pipeline for early hypertension risk prediction.
-- Performed data preprocessing, feature engineering, and feature selection.
-- Experimented with multiple machine learning algorithms and evaluated their performance.
-- Achieved over **90% validation accuracy** according to project results.
-- Exported a lightweight trained model prepared for API integration.
-
-#### 4. SmartShop – Mobile E-commerce Application
-
-**Technologies:** Flutter, Dart, SQLite, SharedPreferences, REST API, JSON
-
-- Developed a cross-platform mobile e-commerce application using Flutter.
-- Implemented product browsing, category filtering, shopping cart, and favorites management.
-- Integrated SQLite for local data persistence and SharedPreferences for user settings.
-- Connected REST APIs to retrieve and manage product data.
-- Designed a user-friendly interface with profile management and application preferences.
+📸 **Project Screenshot:** Coming soon
 
 ---
+
+### 2. AI-Powered Productivity Assistant for Google Workspace
+
+An intelligent AI assistant designed to integrate with Google Workspace and automate productivity tasks through natural language interactions.
+
+**Key Features:**
+- AI-powered assistant for productivity-related tasks.
+- RAG-based semantic search and document retrieval.
+- ChromaDB for vector storage and document indexing.
+- Sentence Transformers for semantic embeddings.
+- LangChain and Gemini API for contextual AI responses.
+
+**Technologies:** Python · FastAPI · React 18 · LangChain · Gemini API · ChromaDB · Sentence Transformers
+
+📸 **Project Screenshot:** Coming soon
+
+---
+
+### 3. Multi-Agent Workflow for Simulated Clinical Orientation
+
+A simulated clinical orientation system based on a multi-agent architecture. It organizes patient information, generates preliminary summaries, identifies potential warning signs, and integrates mandatory physician validation.
+
+**Key Components:**
+- **Supervisor Agent:** Coordinates the workflow and manages transitions between agents.
+- **Diagnostic Agent:** Dynamically generates triage questions according to the patient's complaint and age.
+- **Risk & Safety Analysis:** Uses MCP tools to detect red flags and generate safety recommendations.
+- **Physician Review (HITL):** Requires human validation before proceeding to the final stage.
+- **Report Agent:** Generates structured consultation reports in JSON, Markdown, and PDF formats.
+- Stores consultation records in PostgreSQL.
+
+**Technologies:** Python · LangGraph · MCP · LLMs · PostgreSQL
+
+**Important:** This project is a simulation for educational purposes. It does not replace professional medical consultation or diagnosis. All outputs require validation by a qualified healthcare professional.
+
+📸 **Project Screenshot:** Coming soon
+
+---
+
+### 4. No9taty – Student Grade Management System
+
+A mobile academic management application developed for ENIAD to facilitate student grade tracking and academic administration.
+
+**Key Features:**
+- Secure student authentication and profile management.
+- Consultation of grades by module and semester.
+- Automatic calculation of averages and pass/fail results.
+- Export of semester grade reports in CSV format.
+- Student, module, semester, and grade management.
+- Academic statistics: class average, success rate, and top-performing student.
+- Organization of academic programs across different years, specializations, and groups.
+
+**My Main Contributions:**
+- Designed the database structure using MERISE methodology.
+- Created the MCD and worked on database normalization.
+- Implemented SQLite database integration.
+- Developed data models and CRUD operations.
+- Managed relationships between students, modules, semesters, programs, professors, and grades.
+
+**Technologies:** Flutter · Dart · SQLite · sqflite · MERISE
+
+📸 **Project Screenshot:** Coming soon
+
+---
+
+
 
 ### 📫 Connect With Me
 
